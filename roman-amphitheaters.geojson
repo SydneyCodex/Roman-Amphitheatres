@@ -152,6 +152,7 @@
         "pleiades": "https://pleiades.stoa.org/places/148217",
         "province": "narbonensis",
         "see": "https://pleiades.stoa.org/places/148217/location-of-roman-amphitheater",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Arles_Amphitheatre",
         "youtube": ["https://www.youtube.com/watch?v=oCz-76hb1LU"]
       },
@@ -190,6 +191,7 @@
         "orientation": 145,
         "pleiades": "https://pleiades.stoa.org/places/167717",
         "province": "lugdunensis",
+        "visibility": "partial",
         "wikipedia": "https://en.wikipedia.org/wiki/Amphitheatre_of_the_Three_Gauls"
       },
       "geometry": {
@@ -260,6 +262,7 @@
         "region": "regio-i",
         "see": "http://numismatics.org/collection/1954.203.170",
         "vici":"https://vici.org/vici/4255/",
+        "visibility": "good" ,
         "wikipedia": "https://en.wikipedia.org/wiki/Colosseum",
         "youtube": ["https://www.youtube.com/watch?v=kxwenPo1grc","https://www.youtube.com/watch?v=flXe8h3i5vc", "https://www.youtube.com/watch?v=UtwG_ziYI0Y"]
       },
@@ -328,6 +331,7 @@
         "orientation": 187,
         "pleiades": "https://pleiades.stoa.org/places/687854",
         "province": "judaea",
+        "visibility": "good",
         "youtube": ["https://www.youtube.com/watch?v=bA6YNf8ZwlI"]
       },
       "geometry": {
@@ -374,6 +378,7 @@
         "pleiades": "https://pleiades.stoa.org/places/433032",
         "region": "regio-i",
         "see":["https://3dwarehouse.sketchup.com/model.html?redirect=1&mid=6971b010096197d8dfd89dd71a555b12","https://pleiades.stoa.org/places/433032/amphitheater-of-pompeii"],
+        "visibility": "good",
         "welchid": "1",
         "wikipedia": "https://en.wikipedia.org/wiki/Amphitheatre_of_Pompeii",
         "youtube": ["https://www.youtube.com/watch?v=bqf4bJyo3rU"]
@@ -412,6 +417,7 @@
         "orientation": 135,
         "pleiades": "https://pleiades.stoa.org/places/256155",
         "province": "lusitania",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Mérida_amphitheatre",
         "youtube": ["https://www.youtube.com/watch?v=g4gNhPD2dV4","https://www.youtube.com/watch?v=T3QufLdGrU0"]
       },
@@ -450,7 +456,8 @@
         "moderncountry": "United Kingdom",
         "orientation": 126,
         "pleiades": "https://pleiades.stoa.org/places/89304",
-        "province": "britannia"
+        "province": "britannia",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -551,6 +558,7 @@
         "orientation": 126,
         "pleiades": "https://pleiades.stoa.org/places/432815",
         "region": "regio-i",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Flavian_Amphitheater_(Pozzuoli)",
         "youtube": ["https://www.youtube.com/watch?v=VCCD-YeNQKk",
            "https://www.youtube.com/watch?v=lRV-NbfLgro",
@@ -622,6 +630,7 @@
         "orientation": 144,
         "pleiades": "https://pleiades.stoa.org/places/462503",
         "province": "sicilia",
+        "visibility": "good",
         "wikipedia": "https://it.wikipedia.org/wiki/Anfiteatro_romano_di_Siracusa",
         "youtube": ["https://www.youtube.com/watch?v=aUcjHzMZCeY"]
       },
@@ -643,7 +652,7 @@
         "bibliography":[{"bibliographiccitation":"Rossiter, Jeremy. “In Ampitζatru Carthaginis: The Carthage Amphitheatre and Its Uses.” Journal of Roman Archaeology 29 (ed 2016): 239–58. https://doi.org/10.1017/S1047759400072123.","zoteroitem":"5V8IDURU"},
                         {"bibliographiccitation": "Bomgardner, David L. 1989. “The Carthage Amphitheater: A Reappraisal.” American Journal of Archaeology 93 (1): 85–103. https://doi.org/10.2307/505400.", "zoteroitem": "FYP7DD5A"}],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 30000, "sourcenote": "Bomgargner, “Reappraisal”, p. 101."},
+        "capacity": {"quantity": 30000, "sourcenote": "Bomgardner, “Reappraisal”, p. 101."},
         "chronogroup": "augustan",
         "created":100,
         "dimensions": {
@@ -660,6 +669,7 @@
         "orientation": 212,
         "pleiades": "https://pleiades.stoa.org/places/314921",
         "province": "proconsularis",
+        "visibility": "poor",
         "wikipedia": "https://en.wikipedia.org/wiki/Carthage_amphitheatre",
         "youtube": ["https://www.youtube.com/watch?v=oDiCqZCu06I"]
       },
@@ -791,7 +801,8 @@
         "moderncountry": "Romania",
         "orientation": 122,
         "pleiades": "https://pleiades.stoa.org/places/207361",
-        "province": "dacia"
+        "province": "dacia",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -854,7 +865,8 @@
         "moderncountry": "Austria",
         "orientation": 231,
         "pleiades": "https://pleiades.stoa.org/places/128376",
-        "province": "pannonia"
+        "province": "pannonia",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -913,6 +925,7 @@
         "pleiades": "https://pleiades.stoa.org/places/128376",
         "province": "pannonia",
         "see": "https://www.academia.edu/3791286/The-amphitheatre-of-Carnuntum-Towards-a-complete-3D-model-using-airborne-Structure-from-Motion-and-dense-image-matching",
+        "visibility": "good",
         "youtube": ["https://www.youtube.com/watch?v=Z5TcbJdyEns"]
       },
       "geometry": {
@@ -948,7 +961,8 @@
         "moderncountry": "Libya",
         "orientation": 117,
         "pleiades": "https://pleiades.stoa.org/places/344448",
-        "province": "proconsularis"
+        "province": "proconsularis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -980,7 +994,8 @@
         "moderncountry": "Spain",
         "orientation": 248,
         "pleiades": "https://pleiades.stoa.org/places/246382",
-        "province": "tarraconensis"
+        "province": "tarraconensis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1014,6 +1029,7 @@
         "orientation": 237,
         "pleiades": "https://pleiades.stoa.org/places/246349",
         "province": "tarraconensis",
+        "visibility": "good",
         "youtube": ["https://www.youtube.com/watch?v=Z-1Qrk5qLAE",
           "https://www.youtube.com/watch?v=puw8pLl9vJU"]
       },
@@ -1053,6 +1069,7 @@
         "periodo": "http://n2t.net/ark:/99152/p0wf3wdp4xt",
         "pleiades": "https://pleiades.stoa.org/places/471899",
         "province": "corsica-et-sardinia",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Roman_Amphitheatre_of_Cagliari"
       },
       "geometry": {
@@ -1088,7 +1105,8 @@
         "orientation": 264,
         "pleiades": "https://pleiades.stoa.org/places/256231",
         "province": "baetica",
-        "see": "https://pleiades.stoa.org/places/256231/roman-amphitheater-of-italica"
+        "see": "https://pleiades.stoa.org/places/256231/roman-amphitheater-of-italica",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1122,7 +1140,8 @@
         "orientation": 235,
         "pleiades": "https://pleiades.stoa.org/places/266036",
         "province": "tarraconensis",
-        "see": "https://pleiades.stoa.org/places/266036/location-of-roman-amphitheater"
+        "see": "https://pleiades.stoa.org/places/266036/location-of-roman-amphitheater",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1154,7 +1173,8 @@
         "moderncountry": "Italy",
         "orientation": 159,
         "pleiades": "https://pleiades.stoa.org/places/462270",
-        "province": "sicilia"
+        "province": "sicilia",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -1190,6 +1210,7 @@
         "orientation": 270,
         "pleiades": "https://pleiades.stoa.org/places/442733",
         "region": "regio-iii",
+        "visibility": "partial",
         "welchid": "10"
       },
       "geometry": {
@@ -1223,7 +1244,8 @@
         "moderncountry": "Italy",
         "orientation": 216,
         "pleiades": "https://pleiades.stoa.org/places/403235",
-        "region": "regio-vii"
+        "region": "regio-vii",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1255,6 +1277,7 @@
         "moderncountry": "Italy",
         "orientation": 215,
         "pleiades": "https://pleiades.stoa.org/places/432764",
+        "pleiadesspecific": "https://pleiades.stoa.org/places/821182910" ,
         "region": "regio-i",
         "trismegistos": "http://www.trismegistos.org/place/14453"
       },
@@ -1287,7 +1310,7 @@
             "exteriorminor": 74,
             "arenamajor": 55,
             "arenaminor": 45,
-            "source": "Snežana and Bogdanović 2015"
+            "sourcenote": "Snežana and Bogdanović 2015"
         },
         "label": "Viminacium",
         "lastuse": {"sourcenote": "Nikolić and Bogdanović 2012", "date": 300 },
@@ -1295,7 +1318,8 @@
         "moderncountry": "Serbia",
         "orientation": 108,
         "pleiades": "https://pleiades.stoa.org/places/207549",
-        "province": "moesia-superior"
+        "province": "moesia-superior",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -1364,6 +1388,7 @@
         "pleiades": "https://pleiades.stoa.org/places/413288",
         "pleiadesspecific": "https://pleiades.stoa.org/places/413288/location-of-roman-amphitheater",
         "region": "regio-vii",
+        "visibility": "good",
         "wikipedia": "https://it.wikipedia.org/wiki/Anfiteatro_romano_di_Roselle"
       },
       "geometry": {
@@ -1386,7 +1411,7 @@
         "dimensions": {
           "arenamajor": 52,
           "arenaminor": 46,
-          "sourcenote": "https://fr.wikipedia.org/wiki/Arènes_de_Lutèce"
+          "source": "https://fr.wikipedia.org/wiki/Arènes_de_Lutèce"
         },
         "label": "Paris",
         "latintoponym": "Lutetia Parisiorum",
@@ -1394,6 +1419,7 @@
         "orientation": 160,
         "pleiades": "https://pleiades.stoa.org/places/109126",
         "province": "lugdunensis",
+        "visibility": "partial",
         "wikipedia": "https://en.wikipedia.org/wiki/Arènes_de_Lutèce",
         "youtube": ["https://www.youtube.com/watch?v=DStHFfxd-qo"]
       },
@@ -1415,7 +1441,7 @@
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 15550, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
-"dimensions": {
+        "dimensions": {
           "exteriormajor": 118,
           "exteriorminor": 106,
           "arenamajor": 74,
@@ -1427,7 +1453,8 @@
         "moderncountry": "Switzerland",
         "orientation": 230,
         "pleiades": "https://pleiades.stoa.org/places/167859",
-        "province": "alpes-poeninae"
+        "province": "alpes-poeninae",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1495,7 +1522,8 @@
         "orientation": 140,
         "pleiades": "https://pleiades.stoa.org/places/383694",
         "region": "regio-ix",
-        "source": "https://pleiades.stoa.org/places/383694/location-of-roman-amphitheater"
+        "source": "https://pleiades.stoa.org/places/383694/location-of-roman-amphitheater",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1527,7 +1555,8 @@
         "moderncountry": "Italy",
         "orientation": 109,
         "pleiades": "https://pleiades.stoa.org/places/442640",
-        "region": "regio-ii"
+        "region": "regio-ii",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1580,7 @@
           "exteriorminor": 70,
           "arenamajor": 63,
           "arenaminor": 35,
-          "source": "http:maps.google.com"
+          "source": "https://maps.google.com/"
         },
         "golvinid": "3",
         "label": "Abella",
@@ -1597,6 +1626,7 @@
         "orientation": 241,
         "pleiades": "https://pleiades.stoa.org/places/148142",
         "province": "narbonensis",
+        "visibility": "good",
         "youtube": ["https://www.youtube.com/watch?v=c384XQlnINo"]
       },
       "geometry": {
@@ -1633,6 +1663,7 @@
         "pleiades": "https://pleiades.stoa.org/places/79534",
         "province": "britannia",
         "source": "https://pleiades.stoa.org/places/79534/location-of-roman-amphitheater",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Charterhouse_Roman_Town"
       },
       "geometry": {
@@ -1664,12 +1695,13 @@
          },
         "golvinid": "107",
         "label": "Chester",
-        "lastuse": {"date": "325", "sourcenote": "Via Heritage England"},
+        "lastuse": {"date": 325, "sourcenote": "Via Heritage England"},
         "latintoponym": "Deva Victrix",
         "moderncountry": "United Kingdom",
         "orientation": 156,
         "pleiades": "https://pleiades.stoa.org/places/79420",
         "province": "britannia",
+        "visibility": "partial",
         "wikipedia": "https://en.wikipedia.org/wiki/Chester_Roman_Amphitheatre"
       },
       "geometry": {
@@ -1756,7 +1788,8 @@
         "moderncountry": "Italy",
         "orientation": 204,
         "pleiades": "https://pleiades.stoa.org/places/452439",
-        "region": "regio-iii"
+        "region": "regio-iii",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1790,7 +1823,8 @@
         "moderncountry": "France",
         "orientation": 139,
         "pleiades": "https://pleiades.stoa.org/places/138248",
-        "province": "aquitania"
+        "province": "aquitania",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -1825,7 +1859,8 @@
         "moderncountry": "Tunisia",
         "orientation": 238,
         "pleiades": "https://pleiades.stoa.org/places/315247",
-        "province": "proconsularis"
+        "province": "proconsularis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1847,7 +1882,7 @@
         "dimensions": {
           "exteriormajor": 69,
           "exteriorminor": 69,
-          "sourcenote": "https://maps.google.com"
+          "source": "https://maps.google.com"
         },
         "label": "Carthago Nova",
         "latintoponym": "Carthago Nova",
@@ -1889,7 +1924,8 @@
         "orientation": 194,
         "pleiades": "https://pleiades.stoa.org/places/197583",
         "pleiadesspecific": "https://pleiades.stoa.org/places/197583/location-of-roman-amphitheater",
-        "province": "noricum"
+        "province": "noricum",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1922,7 +1958,8 @@
         "orientation": 100,
         "pleiades": "https://pleiades.stoa.org/places/413065",
         "region": "regio-vi",
-        "source": "https://pleiades.stoa.org/places/413065/location-of-roman-amphitheater"
+        "source": "https://pleiades.stoa.org/places/413065/location-of-roman-amphitheater",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1955,6 +1992,7 @@
         "orientation": 205,
         "pleiades": "https://pleiades.stoa.org/places/413138",
         "region": "regio-vii",
+        "visibility": "street-plan",
         "wikipedia": "https://en.wikipedia.org/wiki/Roman_Amphitheatre_of_Florence"
       },
       "geometry": {
@@ -1989,7 +2027,8 @@
         "orientation": 173,
         "pleiades": "https://pleiades.stoa.org/places/413231",
         "region": "regio-vi",
-        "source": "https://pleiades.stoa.org/places/413231/location-of-roman-amphitheater"
+        "source": "https://pleiades.stoa.org/places/413231/location-of-roman-amphitheater",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2052,7 +2091,8 @@
         "moderncountry": "Italy",
         "orientation": 264,
         "pleiades": "https://pleiades.stoa.org/places/413032",
-        "region": "regio-vii"
+        "region": "regio-vii",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2084,7 +2124,8 @@
         "orientation": 148,
         "pleiades": "https://pleiades.stoa.org/places/442629",
         "region": "regio-ii",
-        "source": "https://pleiades.stoa.org/places/442629/location-of-roman-amphitheater"
+        "source": "https://pleiades.stoa.org/places/442629/location-of-roman-amphitheater",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2148,6 +2189,7 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/413132",
         "region": "regio-vii",
+        "visibility": "good",
         "welchid": "16"
       },
       "geometry": {
@@ -2213,7 +2255,8 @@
         "moderncountry": "France",
         "orientation": 181,
         "pleiades": "https://pleiades.stoa.org/places/157834",
-        "province": "narbonensis"
+        "province": "narbonensis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2235,8 +2278,8 @@
         "dimensions": {
           "arenaminor": 32,
           "arenamajor": 40,
-          "source": "http:maps.google.com",
-          "comment": "Partial visibility so approzimate measurements."
+          "source": "https://maps.google.com/",
+          "comment": "Partial visibility so approximate measurements."
         },
         "label": "Forum Traiani",
         "latintoponym": "Forum Traiani",
@@ -2339,6 +2382,7 @@
         "pleiades": "https://pleiades.stoa.org/places/383816",
         "region": "regio-x",
         "source": "https://pleiades.stoa.org/places/383816/location-of-amphitheater",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Verona_Arena",
         "youtube": ["https://www.youtube.com/watch?v=CJoS5abKuYc"]
       },
@@ -2357,7 +2401,7 @@
         "title": "Civil Amphitheater at Budapest",
         "amphitheatrum": "https://amphi-theatrum.de/1457.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": "8617", "sourcenote": "Golvin"},
+        "capacity": {"quantity": 8617, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "created":275,
         "dimensions": {
@@ -2374,6 +2418,7 @@
         "orientation": 253,
         "pleiades": "https://pleiades.stoa.org/places/197130",
         "province": "pannonia",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Aquincum_Civil_Amphitheatre"
       },
       "geometry": {
@@ -2392,7 +2437,7 @@
         "title": "Military Amphitheater at Budapest",
         "amphitheatrum": "https://amphi-theatrum.de/1458.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": "16049", "sourcenote": "Golvin"},
+        "capacity": {"quantity": 16049, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "created":150,
         "dimensions": {
@@ -2410,6 +2455,7 @@
         "orientation": 195,
         "pleiades": "https://pleiades.stoa.org/places/197130",
         "province": "pannonia",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Aquincum_Military_Amphitheatre"
       },
       "geometry": {
@@ -2505,7 +2551,8 @@
         "orientation": 152,
         "pleiades": "https://pleiades.stoa.org/places/383617",
         "pleiadesspecific": "https://pleiades.stoa.org/places/853249147",
-        "region": "regio-x"
+        "region": "regio-x",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2575,7 +2622,8 @@
         "orientation": 144,
         "pleiades": "https://pleiades.stoa.org/places/413005",
         "region": "regio-iv",
-        "source": "https://pleiades.stoa.org/places/413005/amphitheater-of-alba-fucens"
+        "source": "https://pleiades.stoa.org/places/413005/amphitheater-of-alba-fucens",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2611,7 +2659,8 @@
         "pleiades": "https://pleiades.stoa.org/places/177494",
         "province": "germania-superior",
         "see": "http://www.augustaraurica.ch/en/visit/sights/amphitheatre/",
-        "source": "https://pleiades.stoa.org/places/177494/location-of-roman-amphitheater"
+        "source": "https://pleiades.stoa.org/places/177494/location-of-roman-amphitheater",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2642,6 +2691,7 @@
         "orientation": 230,
         "pleiades": "https://pleiades.stoa.org/places/413328",
         "region": "regio-vii",
+        "visibility": "good",
         "welchid": "15",
         "youtube": ["https://www.youtube.com/watch?v=OgHl5MT95bg"]
       },
@@ -2661,7 +2711,7 @@
       "properties": {
         "title": "Amphitheater at Ulpia Traiana Sarmizegetusa",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": "5831", "sourcenote": "Golvin"},
+        "capacity": {"quantity": 5831, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 88,
@@ -2678,7 +2728,8 @@
         "orientation": 262,
         "pleiades": "https://pleiades.stoa.org/places/207527",
         "province": "dacia",
-        "trismegistos": "http://www.trismegistos.org/place/30060"
+        "trismegistos": "http://www.trismegistos.org/place/30060",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2713,7 +2764,8 @@
         "orientation": 93,
         "pleiades": "https://pleiades.stoa.org/places/197488",
         "pleiadesspecific": "https://pleiades.stoa.org/places/197488/location-of-roman-amphitheater",
-        "province": "dalmatia"
+        "province": "dalmatia",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2747,6 +2799,7 @@
         "orientation": 90,
         "pleiades": "https://pleiades.stoa.org/places/79574",
         "province": "britannia",
+        "visibility": "partial",
         "youtube": ["https://www.youtube.com/watch?v=qvw9xA-hTz8"]
       },
       "geometry": {
@@ -2809,6 +2862,7 @@
         "orientation": 151,
         "pleiades": "https://pleiades.stoa.org/places/79532",
         "province": "britannia",
+        "visibility": "good",
         "youtube": [
            "https://www.youtube.com/watch?v=VIT1JAOadho",
            "https://www.youtube.com/watch?v=vV-DCm-MFNI"
@@ -2877,7 +2931,8 @@
         "moderncountry": "Italy",
         "orientation": 221,
         "pleiades": "https://pleiades.stoa.org/places/413364",
-        "region": "regio-v"
+        "region": "regio-v",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2911,6 +2966,7 @@
         "orientation": 119,
         "pleiades": "https://pleiades.stoa.org/places/138458",
         "province": "aquitania",
+        "visibility": "good",
         "youtube": ["https://www.youtube.com/watch?v=2TCI21s-bxM"]
       },
       "geometry": {
@@ -2978,6 +3034,7 @@
         "orientation": 179,
         "pleiades": "https://pleiades.stoa.org/places/481818",
         "province": "macedonia",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Durrës_Amphitheatre",
         "youtube": ["https://www.youtube.com/watch?v=Ot-KIRo5puc"]
       },
@@ -3014,7 +3071,8 @@
         "moderncountry": "Algeria",
         "orientation": 127,
         "pleiades": "https://pleiades.stoa.org/places/334570",
-        "province": "mauretania"
+        "province": "mauretania",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -3083,6 +3141,7 @@
         "orientation": 150,
         "pleiades": "https://pleiades.stoa.org/places/197225",
         "province": "britannia",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Cirencester_Amphitheatre",
         "youtube": [
             "https://www.youtube.com/watch?v=9RFDium7TYU",
@@ -3125,7 +3184,8 @@
         "moderncountry": "Switzerland",
         "orientation": 241,
         "pleiades": "https://pleiades.stoa.org/places/177661",
-        "province": "germania-superior"
+        "province": "germania-superior",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -3202,6 +3262,7 @@
         "orientation": 257,
         "pleiades": "https://pleiades.stoa.org/places/324835",
         "province": "proconsularis",
+        "visibility": "good",
         "wikipedia": ["https://fr.wikipedia.org/wiki/Amphithéâtre_d%27El_Jem","https://en.wikipedia.org/wiki/Amphitheatre_of_El_Jem"],
         "youtube": ["https://www.youtube.com/watch?v=bDDyEMg34Os"]
       },
@@ -3239,7 +3300,8 @@
         "moderncountry": "France",
         "orientation": 131,
         "pleiades": "https://pleiades.stoa.org/places/157836",
-        "province": "narbonensis"
+        "province": "narbonensis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -3285,14 +3347,15 @@
         "title": "Amphitheater at Leptiminus",
         "amphitheatrum": "https://amphi-theatrum.de/1322.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 9100, "sourcenote": "Bomgarder. Story. Page 191."},
+        "capacity": {"quantity": 9100, "sourcenote": "Bomgardner. Story. Page 191."},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 81,
           "exteriorminor": 62,
           "arenamajor": 45,
           "arenaminor": 26,
-          "source": ["Golvin","https://www.academia.edu/4309219/Roman-Amphitheatres-and-Spectacula-a-21st--Century-PerspectiveArchaeopress-Publishers-of-British-Archaeological-Reports15.-The-Magerius-Mosaic-Revisited"]
+          "sourcenote": "Golvin",
+          "source": "https://www.academia.edu/4309219/Roman-Amphitheatres-and-Spectacula-a-21st--Century-PerspectiveArchaeopress-Publishers-of-British-Archaeological-Reports15.-The-Magerius-Mosaic-Revisited"
         },
         "golvinid": "114",
         "label": "Leptiminus",
@@ -3433,6 +3496,7 @@
         "orientation": 197,
         "pleiades": "https://pleiades.stoa.org/places/197448",
         "region": "regio-x",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Pula_Arena",
         "youtube": ["https://www.youtube.com/watch?v=hqTud5XxI-s","https://www.youtube.com/watch?v=YZGAZ6HFUmA","https://www.youtube.com/watch?v=oF1jrFn-5mY"]
       },
@@ -3451,7 +3515,7 @@
         "title": "Amphitheater at Carmona",
         "amphitheatrum": "https://amphi-theatrum.de/1471.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 18350, "sourcenote": "https://amphi-theatrum.de/1471.html"},
+        "capacity": {"quantity": 18350, "source": "https://amphi-theatrum.de/1471.html"},
         "chronogroup": "caesarean",
         "created": -50,
         "dimensions": {
@@ -3459,7 +3523,7 @@
           "exteriorminor": 98,
           "arenamajor": 58,
           "arenaminor": 39,
-          "sourcenote": "https://amphi-theatrum.de/1471.html"
+          "source": "https://amphi-theatrum.de/1471.html"
         },
         "golvinid": "10",
         "label": "Carmona",
@@ -3497,7 +3561,8 @@
         "latintoponym": "Caesarea",
         "moderncountry": "Israel",
         "pleiades": "https://pleiades.stoa.org/places/678401",
-        "province": "judaea"
+        "province": "judaea",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -3654,7 +3719,8 @@
         "moderncountry": "Libya",
         "orientation": 105,
         "pleiades": "https://pleiades.stoa.org/places/344282",
-        "province": "proconsularis"
+        "province": "proconsularis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -3735,7 +3801,7 @@
         "exteriorminor": 67,
         "arenamajor": 46,
         "arenaminor": 27,
-          "sourcenote": "https://en.wikipedia.org/wiki/Moridunum_(Carmarthen)"
+          "source": "https://en.wikipedia.org/wiki/Moridunum_(Carmarthen)"
          },
         "label": "Carmarthen",
         "latintoponym": "Moridunum",
@@ -3806,7 +3872,8 @@
         "moderncountry": "United Kingdom",
         "orientation": 192,
         "pleiades": "https://pleiades.stoa.org/places/142376597",
-        "province": "britannia"
+        "province": "britannia",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -3946,6 +4013,7 @@
         "orientation": 181,
         "pleiades": "https://pleiades.stoa.org/places/108894",
         "province": "belgica",
+        "visibility": "good",
         "youtube": ["https://www.youtube.com/watch?v=WYOvPyCntiY","https://www.youtube.com/watch?v=kOv5vx9S0z8","https://www.youtube.com/watch?v=dl9PAgQuSNs"]
       },
       "geometry": {
@@ -3981,7 +4049,8 @@
         "moderncountry": "Italy",
         "orientation": 264,
         "pleiades": "https://pleiades.stoa.org/places/167919",
-        "province": "alpes-cottiae"
+        "province": "alpes-cottiae",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4015,7 +4084,8 @@
         "moderncountry": "Italy",
         "orientation": 264,
         "pleiades": "https://pleiades.stoa.org/places/383642",
-        "region": "regio-xi"
+        "region": "regio-xi",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4189,7 +4259,8 @@
         "moderncountry": "France",
         "orientation": 167,
         "pleiades": "https://pleiades.stoa.org/places/246694",
-        "province": "narbonensis"
+        "province": "narbonensis",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -4239,13 +4310,15 @@
         "dimensions":{
           "exteriormajor": 178,
           "exteriorminor": 145,
-          "sourcenote": "https://www.romanhideout.com/News/2003/indipendent20030927.asp http://www.arqueocordoba.com/en/gruposisifo/investigacion/proyectos/amphitheatro/"
+          "source": ["https://www.romanhideout.com/News/2003/indipendent20030927.asp",
+                    "http://www.arqueocordoba.com/en/gruposisifo/investigacion/proyectos/amphitheatro/"]
         },
         "label": "Cordoba",
         "latintoponym": "Colonia Patricia",
         "moderncountry": "Spain",
         "pleiades": "https://pleiades.stoa.org/places/256128",
         "province": "baetica",
+        "visibility": "none",
         "wikimapia": "https://wikimapia.org/1560328/Roman-amphitheater"
       },
       "geometry": {
@@ -4263,13 +4336,13 @@
       "properties": {
         "title": "Amphitheater at Ancient Ategua",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 6000, "sourcenote": "https://cordopolis.eldiario.es/cultura/patrimonio/emerge-yacimiento-ategua-anfiteatro-capacidad-6-000-personas_1_10021788.html"},
+        "capacity": {"quantity": 6000, "source": "https://cordopolis.eldiario.es/cultura/patrimonio/emerge-yacimiento-ategua-anfiteatro-capacidad-6-000-personas_1_10021788.html"},
         "chronogroup": "first-century",
         "comment": "Discovery announced in 2023.",
         "dimensions":{
           "exteriormajor": 44,
           "arenamajor": 27,
-          "sourcenote": "https://cordopolis.eldiario.es/cultura/patrimonio/emerge-yacimiento-ategua-anfiteatro-capacidad-6-000-personas_1_10021788.html"
+          "source": "https://cordopolis.eldiario.es/cultura/patrimonio/emerge-yacimiento-ategua-anfiteatro-capacidad-6-000-personas_1_10021788.html"
         },
         "label": "Ategua",
         "latintoponym": "Ategua",
@@ -4341,7 +4414,8 @@
         "latintoponym": "Vesontio",
         "moderncountry": "France",
         "pleiades": "https://pleiades.stoa.org/places/177657",
-        "province": "germania-superior"
+        "province": "germania-superior",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -4374,7 +4448,8 @@
         "latintoponym": "Augustoritum",
         "moderncountry": "France",
         "pleiades": "https://pleiades.stoa.org/places/138203",
-        "province": "aquitania"
+        "province": "aquitania",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -4406,7 +4481,8 @@
         "latintoponym": "Limonum Pictonum",
         "moderncountry": "France",
         "pleiades": "https://pleiades.stoa.org/places/138422",
-        "province": "aquitania"
+        "province": "aquitania",
+        "visibility": "street-plan"
       },
       "geometry": {
         "type": "Point",
@@ -4501,7 +4577,8 @@
         "latintoponym": "Mediolanum",
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/383706",
-        "region": "regio-xi"
+        "region": "regio-xi",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -4534,7 +4611,8 @@
         "latintoponym": "Aquileia",
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/187290",
-        "region": "regio-x"
+        "region": "regio-x",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -4566,7 +4644,8 @@
         "moderncountry": "Italy",
         "orientation": 188,
         "pleiades": "https://pleiades.stoa.org/places/393473",
-        "region": "regio-x"
+        "region": "regio-x",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4600,6 +4679,8 @@
         "orientation": 267,
         "pleiades": "https://pleiades.stoa.org/places/442642",
         "region": "regio-ii",
+        "see": "https://visitlecce.eu/it/luogo/anfiteatro-romano" ,
+        "visibility": "partial",
         "wikipedia": "https://it.wikipedia.org/wiki/Anfiteatro_romano_di_Lecce"
       },
       "geometry": {
@@ -4718,7 +4799,7 @@
           "exteriorminor": 84,
           "arenamajor": 59,
           "arenaminor": 42,
-          "source":"Golvin"
+          "sourcenote":"Golvin"
          },
         "golvinid": "163",
         "label": "Bolsena",
@@ -4841,7 +4922,7 @@
           "exteriormajor": 110,
           "exteriorminor": 72,
           "arenamajor": 87,
-          "sourcenote": "https://amphi-theatrum.de/1462.html"
+          "source": "https://amphi-theatrum.de/1462.html"
         },
         "label": "Calvi Risorto",
         "latintoponym": "Cales",
@@ -4901,13 +4982,13 @@
         "amphitheatrum": "https://amphi-theatrum.de/1405.html",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 643","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 8601, "sourcenote":"Golvin"},
+        "capacity": {"quantity": 13700, "source":"https://fr.wikipedia.org/wiki/Arènes_romaines_de_Béziers"},
         "chronogroup": "imperial",
         "dimensions": {
-          "exteriormajor": 74,
-          "exteriorminor": 44,
-          "arenamajor": 104,
-          "arenaminor": 74,
+          "exteriormajor": 104,
+          "exteriorminor": 74,
+          "arenamajor": 74,
+          "arenaminor": 44,
           "sourcenote": "Golvin"
         },
         "golvinid": "159",
@@ -4915,6 +4996,7 @@
         "latintoponym": "Baeterrae",
         "moderncountry": "France",
         "pleiades": "https://pleiades.stoa.org/places/148056",
+        "pleiadesspecific": "https://pleiades.stoa.org/places/977841705" ,
         "province": "narbonensis",
         "visibility": "street-plan"
       },
@@ -5520,7 +5602,7 @@
         "title": "Amphitheater at Autun",
         "amphitheatrum": "https://amphi-theatrum.de/2680.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": "32189", "sourcenote": "Golvin"},
+        "capacity": {"quantity": 32189, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
         "dimensions": {
           "exteriormajor": 154,
@@ -5593,7 +5675,7 @@
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 32,
-          "sourcenote": "https://amphi-theatrum.de/1896.html"
+          "source": "https://amphi-theatrum.de/1896.html"
         },
         "label": "Arnsburg",
         "moderncountry": "Germany",
@@ -5989,12 +6071,13 @@
       "properties": {
         "title": "Amphitheater at Bosra",
         "amphitheatrum": "https://amphi-theatrum.de/2002.html",
+        "bibliography" : "Weiss, Zeev. 2014. Public Spectacles in Roman and Late Antique Palestine. Public Spectacles in Roman and Late Antique Palestine. Harvard University Press. https://doi.org/10.4159/harvard.9780674726628., p. 112" ,
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions":{
           "exteriormajor": 120,
           "exteriorminor": 75,
-          "sourcenote": "Weiss, Zeev. 2014. Public Spectacles in Roman and Late Antique Palestine. Public Spectacles in Roman and Late Antique Palestine. Harvard University Press. https://doi.org/10.4159/harvard.9780674726628., p. 112"
+          "sourcenote": "Weiss 2014"
         },
         "label": "Bosra",
         "latintoponym": "Nova Trajana Bostra",
@@ -6056,7 +6139,7 @@
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 80,
-          "sourcenote": "https://amphi-theatrum.de/1618.html"
+          "source": "https://amphi-theatrum.de/1618.html"
         },
         "label": "St. Marcel",
         "latintoponym": "Argentomagus",
@@ -6635,7 +6718,7 @@
         "chronogroup": "caesarean",
         "dimensions":{
           "arenamajor": 35,
-          "sourcenote": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=ucubi"
+          "source": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=ucubi"
         },
         "golvinid": "11",
         "label": "Espejo",
@@ -6911,7 +6994,7 @@
         "dimensions": {
           "exteriormajor": 42,
           "exteriorminor": 38,
-          "sourcenote":"https://www.seeker.com/mini-colosseum-excavated-in-rome-1764727456.html"
+          "source":"https://www.seeker.com/mini-colosseum-excavated-in-rome-1764727456.html"
         },
         "exclude": true,
         "label": "Portus Oval Structure",
@@ -7198,7 +7281,7 @@
         "pleiades": "https://pleiades.stoa.org/places/383579",
         "region": "regio-xi",
         "vici": "https://vici.org/vici/4209",
-        "visibility": "street plan" },
+        "visibility": "street-plan" },
         "geometry": {
           "type": "Point",
           "coordinates":[
@@ -7599,7 +7682,7 @@
         "orientation": 219,
         "pleiades": "https://pleiades.stoa.org/places/344439",
         "province": "proconsularis",
-        "visibility": "fair"
+        "visibility": "good"
          },
         "geometry": {
           "type": "Point",
@@ -7723,7 +7806,7 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/413354",
         "region": "regio-vi",
-        "visibility": "street plan"
+        "visibility": "street-plan"
          },
         "geometry": {
           "type": "Point",
@@ -8383,7 +8466,7 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/383745",
         "region": "regio-ix",
-        "visibility": "street plan" },
+        "visibility": "street-plan" },
         "geometry": {
           "type": "Point",
           "coordinates":[
@@ -8605,7 +8688,7 @@
         "dimensions": {
           "exteriormajor": 117,
           "exteriorminor": 93,
-          "sourcenote": "https://amphi-theatrum.de/2613.html"
+          "source": "https://amphi-theatrum.de/2613.html"
         },
         "label": "Barcelona",
         "latintoponym": "Barcino",
@@ -8661,7 +8744,7 @@
         "dimensions": {
            "arenamajor": 56,
            "arenaminor": 47,
-           "source": "Golvin"
+           "sourcenote": "Golvin"
         },
         "golvinid": "35",
         "historicengland": "https://historicengland.org.uk/listing/the-list/list-entry/1002984",
@@ -8793,7 +8876,7 @@
         "moderncountry": "Turkey",
         "pleiades": "https://pleiades.stoa.org/places/599790",
         "province": "asia",
-        "visibility": "uncertain" },
+        "visibility": "good" },
         "geometry": {
           "type": "Point",
           "coordinates":[
@@ -8816,7 +8899,7 @@
         "dimensions": {
            "arenamajor": 62,
            "arenaminor": 48,
-           "sourcenote": "https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Aree-archeologiche/Tridentum.-La-citta-sotterranea/L-anfiteatro-romano7"
+           "source": "https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Aree-archeologiche/Tridentum.-La-citta-sotterranea/L-anfiteatro-romano7"
         },
         "label": "Trento",
         "latintoponym": "Tridentum",
@@ -8891,7 +8974,7 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/433185",
         "province": "regio-i",
-        "visibility": "street" },
+        "visibility": "street-plan" },
         "geometry": {
           "type": "Point",
           "coordinates":[
