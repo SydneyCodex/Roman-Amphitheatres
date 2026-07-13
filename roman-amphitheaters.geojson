@@ -218,6 +218,7 @@
         "orientation": 105 ,
         "pleiades": "https://pleiades.stoa.org/places/423025",
         "region": "regio-i",
+        "visibility": "partial",
         "wikipedia": "https://en.wikipedia.org/wiki/Ludus_Magnus"
       },
       "geometry": {
@@ -521,6 +522,7 @@
         "pleiades": "https://pleiades.stoa.org/places/432808",
         "region": "regio-i",
         "see": "https://pleiades.stoa.org/places/432808/location-of-roman-amphitheater",
+        "visibility": "partial",
         "welchid": "4"
       },
       "geometry": {
@@ -700,7 +702,8 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/423127",
         "private": true,
-        "region": "regio-i"
+        "region": "regio-i",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -736,6 +739,7 @@
         "pleiades": "https://pleiades.stoa.org/places/570182",
         "province": "achaea",
         "see": "http://corinth.sas.upenn.edu/gisamphitheater.html",
+        "visibility": "good",
         "welchid": "18"
       },
       "geometry": {
@@ -768,7 +772,8 @@
         "latintoponym": "Marcianopolis",
         "moderncountry": "Bulgaria",
         "pleiades": "https://pleiades.stoa.org/places/216878",
-        "province": "thracia"
+        "province": "thracia",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -891,6 +896,7 @@
         "pleiades": "https://pleiades.stoa.org/places/128376",
         "province": "pannonia",
         "see": "https://www.academia.edu/3791251/The-discovery-of-a-gladiatorial-school-at-Carnuntum",
+        "visibility": "none",
         "youtube": ["https://www.youtube.com/watch?v=aJFH3TCVzTk"]
       },
       "geometry": {
@@ -1279,7 +1285,8 @@
         "pleiades": "https://pleiades.stoa.org/places/432764",
         "pleiadesspecific": "https://pleiades.stoa.org/places/821182910" ,
         "region": "regio-i",
-        "trismegistos": "http://www.trismegistos.org/place/14453"
+        "trismegistos": "http://www.trismegistos.org/place/14453",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1353,7 +1360,8 @@
         "moderncountry": "Austria",
         "orientation": 189,
         "pleiades": "https://pleiades.stoa.org/places/197273",
-        "province": "noricum"
+        "province": "noricum",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -1589,6 +1597,7 @@
         "orientation": 216,
         "pleiades": "https://pleiades.stoa.org/places/432617",
         "region": "regio-i",
+        "visibility": "good",
         "welchid": "5"
       },
       "geometry": {
@@ -1731,7 +1740,8 @@
         "moderncountry": "France",
         "orientation": 239,
         "pleiades": "https://pleiades.stoa.org/places/138371",
-        "province": "lugdunensis"
+        "province": "lugdunensis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -1756,7 +1766,8 @@
         "moderncountry": "Israel",
         "orientation": 98,
         "pleiades": "https://pleiades.stoa.org/places/678378",
-        "province": "judaea"
+        "province": "judaea",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2159,7 +2170,7 @@
         "pleiades": "https://pleiades.stoa.org/places/413184",
         "pleiadesspecific": "https://pleiades.stoa.org/places/413184/location-of-lucus-feroniae-amphitheater",
         "region": "regio-vii",
-        "welchid": "16"
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2198,7 +2209,7 @@
           12.139272,
           42.491986,
           288 ],
-          "sourcenote": "https://maps.google.com/"}
+          "source": "https://maps.google.com/"}
     },{
       "type": "Feature",
       "id": "allifaeAmphitheater",
@@ -2221,7 +2232,8 @@
         "moderncountry": "Italy",
         "orientation": 213,
         "pleiades": "https://pleiades.stoa.org/places/432658",
-        "region": "regio-i"
+        "region": "regio-i",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -2287,7 +2299,8 @@
         "orientation": 209,
         "pleiades": "https://pleiades.stoa.org/places/471947",
         "province": "corsica-et-sardinia",
-        "source": "https://pleiades.stoa.org/places/471947/location-of-roman-amphitheater"
+        "source": "https://pleiades.stoa.org/places/471947/location-of-roman-amphitheater",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -2320,7 +2333,8 @@
         "orientation": 98,
         "pleiades": "https://pleiades.stoa.org/places/403234",
         "region": "regio-vii",
-        "source": "https://pleiades.stoa.org/places/403234/location-of-roman-amphitheater"
+        "source": "https://pleiades.stoa.org/places/403234/location-of-roman-amphitheater",
+        "visibility": "street-plan"
       },
       "geometry": {
         "type": "Point",
@@ -2348,7 +2362,8 @@
         "orientation": 124,
         "pleiades": "https://pleiades.stoa.org/places/413170",
         "region": "regio-vi",
-        "source": "https://pleiades.stoa.org/places/413170/location-of-roman-amphitheater"
+        "source": "https://pleiades.stoa.org/places/413170/location-of-roman-amphitheater",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2521,7 +2536,8 @@
         "orientation": 175,
         "pleiades": "https://pleiades.stoa.org/places/138650",
         "pleiadesspecific": "https://pleiades.stoa.org/places/138650/location-of-roman-amphitheater",
-        "province": "aquitania"
+        "province": "aquitania",
+        "visibility": "street-plan"
       },
       "geometry": {
         "type": "Point",
@@ -2998,6 +3014,7 @@
         "orientation": 225,
         "pleiades": "https://pleiades.stoa.org/places/413037",
         "region": "regio-vi",
+        "visibility": "street-plan",
         "youtube": ["https://www.youtube.com/watch?v=uLSmRRxtf4M"]
       },
       "geometry": {
@@ -3330,7 +3347,8 @@
         "moderncountry": "Greece",
         "orientation": 218,
         "pleiades": "https://pleiades.stoa.org/places/589796",
-        "province": "crete-et-cyrenaica"
+        "province": "crete-et-cyrenaica",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -3429,7 +3447,8 @@
         "moderncountry": "Algeria",
         "orientation": 264,
         "pleiades": "https://pleiades.stoa.org/places/334553",
-        "province": "mauretania"
+        "province": "mauretania",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -3461,7 +3480,8 @@
         "moderncountry": "Algeria",
         "orientation": 256,
         "pleiades": "https://pleiades.stoa.org/places/295279",
-        "province": "mauretania"
+        "province": "mauretania",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -3746,7 +3766,8 @@
         "latintoponym": "Salamis",
         "moderncountry": "Cyprus",
         "pleiades": "https://pleiades.stoa.org/places/707617",
-        "province": "cyprus"
+        "province": "cyprus",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -3775,7 +3796,8 @@
         "moderncountry": "Cyprus",
         "orientation": 105,
         "pleiades": "https://pleiades.stoa.org/places/707586",
-        "province": "cyprus"
+        "province": "cyprus",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -3975,7 +3997,8 @@
         "moderncountry": "Algeria",
         "orientation": 156,
         "pleiades": "https://pleiades.stoa.org/places/324831",
-        "province": "proconsularis"
+        "province": "proconsularis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4158,7 +4181,8 @@
         "orientation": 93,
         "pleiades": "https://pleiades.stoa.org/places/422885",
         "region": "regio-i",
-        "trismegistos": "http://www.trismegistos.org/place/19939"
+        "trismegistos": "http://www.trismegistos.org/place/19939",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4191,7 +4215,8 @@
         "latintoponym": "Ulpia Serdica",
         "moderncountry": "Bulgaria",
         "pleiades": "https://pleiades.stoa.org/places/207439",
-        "province": "thracia"
+        "province": "thracia",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -4381,7 +4406,8 @@
         "latintoponym": "Iuliobona",
         "moderncountry": "France",
         "pleiades": "https://pleiades.stoa.org/places/109069",
-        "province": "lugdunensis"
+        "province": "lugdunensis",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -4499,7 +4525,7 @@
       "properties": {
         "title": "Amphitheater at Reims",
         "amphitheatrum": "https://amphi-theatrum.de/1394.html",
-        "bibliography": {"bibliographicCitation": "Berthelot, François, Maxence Poirier, Philippe Rollet, and Agnès Balmelle. 2018. “L’analyse de La Composition Urbaine de Reims Entre La Fin de La Période Gauloise et Le IVe Siècle : Apport de Trente Ans de Fouilles Préventives.” In Archéologie de l’espace Urbain, edited by Xavier Rodier and Elisabeth Lorans, 51–65. Perspectives Villes et Territoires. Tours: Presses universitaires François-Rabelais. http://books.openedition.org/pufr/7630.", "zoteroitem": "RRUTEYQI"},
+        "bibliography": {"bibliographiccitation": "Berthelot, François, Maxence Poirier, Philippe Rollet, and Agnès Balmelle. 2018. “L’analyse de La Composition Urbaine de Reims Entre La Fin de La Période Gauloise et Le IVe Siècle : Apport de Trente Ans de Fouilles Préventives.” In Archéologie de l’espace Urbain, edited by Xavier Rodier and Elisabeth Lorans, 51–65. Perspectives Villes et Territoires. Tours: Presses universitaires François-Rabelais. http://books.openedition.org/pufr/7630.", "zoteroitem": "RRUTEYQI"},
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -4512,6 +4538,7 @@
         "moderncountry": "France",
         "pleiades": "https://pleiades.stoa.org/places/108945",
         "province": "belgica",
+        "visibility": "none",
         "wikipedia": "https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_de_Reims"
       },
       "geometry": {
@@ -4545,7 +4572,8 @@
         "latintoponym": "Segodunum",
         "moderncountry": "France",
         "pleiades": "https://pleiades.stoa.org/places/138579",
-        "province": "aquitania"
+        "province": "aquitania",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -4774,7 +4802,8 @@
         "moderncountry": "Italy",
         "orientation": 267,
         "pleiades": "https://pleiades.stoa.org/places/413350",
-        "region": "regio-iv"
+        "region": "regio-iv",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4807,7 +4836,8 @@
         "moderncountry": "Italy",
         "orientation": 130,
         "pleiades": "https://pleiades.stoa.org/places/413389",
-        "region": "regio-vii"
+        "region": "regio-vii",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -4841,6 +4871,7 @@
         "orientation": 167,
         "pleiades": "https://pleiades.stoa.org/places/413014",
         "region": "regio-v",
+        "visibility": "partial",
         "wikipedia": "https://it.wikipedia.org/wiki/Anfiteatro_romano_di_Ancona"
       },
       "geometry": {
@@ -4873,7 +4904,8 @@
         "latintoponym": "Asculum Picenum",
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/413036",
-        "region": "regio-v"
+        "region": "regio-v",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -4899,7 +4931,8 @@
         "latintoponym": "Beneventum",
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/432721",
-        "region": "regio-ii"
+        "region": "regio-ii",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -4929,6 +4962,7 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/432739",
         "region": "regio-i",
+        "visibility": "none",
         "welchid": "6"
       },
       "geometry": {
